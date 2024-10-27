@@ -28,8 +28,8 @@
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div style="text-align: left;"> <a href=https://ssunooo.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=plastic&logo=Tistory&logoColor=white&link=https://ssunooo.tistory.com/"> </a>
-         <a href=https://sustaining-scowl-f12.notion.site/Code-Mountain-11108b342447807880aac9ae96049624?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white&link=https://sustaining-scowl-f12.notion.site/Code-Mountain-11108b342447807880aac9ae96049624?pvs=4"> </a>
+    <div style="text-align: left;"> <a href=https://sustaining-scowl-f12.notion.site/11108b3424478022831aebff1eb594f0?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white&link=https://sustaining-scowl-f12.notion.site/11108b3424478022831aebff1eb594f0?pvs=4"> </a>
+         <a href=https://ssunooo.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=plastic&logo=Tistory&logoColor=white&link=https://ssunooo.tistory.com/"> </a>
          <a href=mailto:rlatjsgh373@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white&link=mailto:rlatjsgh373@gmail.com"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
